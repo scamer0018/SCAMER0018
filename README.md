@@ -59,7 +59,7 @@ pkg install yarn
 pkg install nodejs git ffmpeg libwebp -y
 
 # 3. Clone the bot repo
-git clone https://github.com/mohsin091143/kashmirix1.gi](https://github.com/scamer0018/SCAMER0018.git
+git clone https://github.com/scamer0018/SCAMER0018.git
 cd kashmirix1
 
 # 4. Install node modules
