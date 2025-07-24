@@ -1,4 +1,4 @@
-<h1 align="center">🐞 KASHMIRI BUG BOT</h1>
+<h1 align="center">🐞 DEMON EYE</h1>
 <h3 align="center">🚀 VERSION X1 — The Ultimate WhatsApp Bug Automation Bot</h3>
 
 <p align="center">
