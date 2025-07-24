@@ -2,7 +2,7 @@
 <h3 align="center">🚀 VERSION X0.1 — The Ultimate WhatsApp Bug Automation Bot</h3>
 
 <p align="center">
-  <img src="[https://ibb.co/xtyg0hL6](https://ibb.co/xtyg0hL6)" alt="Kashmiri Bug Bot Banner" width="400" />
+  <img src="[https://ibb.co/xtyg0hL6]" alt="Kashmiri Bug Bot Banner" width="400" />
 </p>
 
 <h1 align="center">
