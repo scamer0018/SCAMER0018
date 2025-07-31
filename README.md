@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-**DARK_REPOSITORIES**-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=4b0082">
   </a>
   <a href="https://t.me/Next_DYS">
-    <img src="https://img.shields.io/badge/-**SUMMON_ME**-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00008b">
+    <img src="https://img.shields.io/badge/-**Lucifer-x11_Me**-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00008b">
   </a>
   <a href="https://youtube.com/@DemonEye_Official">
     <img src="https://img.shields.io/badge/-**FORBIDDEN_KNOWLEDGE**-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=8b0000">
@@ -21,24 +21,28 @@
 </div>
 
 ---
+## **💀 _Realms of Creation_**
 
-## **🕳️ _The Abyss Manifesto_**
+| **Project** | **_Dark Magic_** | **Souls Claimed** |
+|-------------|------------------|-------------------|
+| [**NecroBot**](https://github.com/scamer0018/WhatsApp-Bot-X) | _500+ commands of pure domination_ | ⭐**2.5K** |
+| [**HellGPT**](https://github.com/scamer0018/Lucifer-AI) | _AI that knows too much_ | ⭐**2.1K** |
+| [**InfernoAPI**](https://github.com/scamer0018/Hell-API) | _APIs that shouldn't exist_ | ⭐**1.8K** |
 
-```javascript
-class DigitalDemon {
-  constructor() {
-    this.name = "LUCIFER-X11";
-    this.title = "Architect of Digital Hell";
-    this.powers = [
-      "WhatsApp Bot Domination",
-      "API Necromancy", 
-      "Encryption Sorcery"
-    ];
-    this.level = "∞";
-    this.motto = "I don't write bugs, I create unexpected features";
-  }
-  
-  invoke() {
-    return "Awakening the digital underworld...";
-  }
-}
+---
+
+## **📜 _Soul Ledger_**
+
+![**Damnation Stats**](https://github-readme-stats.vercel.app/api?username=scamer0018&show_icons=true&theme=midnight-purple&border_color=8a2be2&include_all_commits=true&count_private=true&icon_color=9400d3)
+
+![**Languages of the Damned**](https://github-readme-stats.vercel.app/api/top-langs/?username=scamer0018&layout=compact&theme=midnight-purple&border_color=8a2be2)
+
+---
+
+> "_You're not just viewing code - you're witnessing **digital black magic**.  
+> These repositories contain **forbidden knowledge** that can **corrupt your mind**._"  
+> **- _The Code Necromancer_**
+
+<details>
+<summary>**⚠️ _DARE TO CONTINUE?_**</summary>
+<br>
