@@ -1,48 +1,65 @@
-# **𝐋𝐔𝐂𝐈𝐅𝐄𝐑-𝐗𝟏𝟏** ~ _The Forbidden Code Architect_ 🔮
+# **🔥 LUCIFER-X11 ~ The Dark Code Architect**🔥
 
-<!-- MYSTICAL CODING PROFILE -->
 <p align="center">
-  <img src="https://i.ibb.co/STdZ5BB/FB-IMG-1738957195800.jpg" width="230" height="230" style="border-radius:50%; border: 4px solid #8a2be2; box-shadow: 0 0 30px #9400d3, 0 0 15px #4b0082; filter: saturate(1.3); transition: all 0.4s ease;">
+  <img src="https://i.ibb.co/STdZ5BB/FB-IMG-1738957195800.jpg" width="250" height="250" style="border-radius:50%; border: 4px solid #ff0000; box-shadow: 0 0 30px #ff4500, 0 0 15px #8b0000; filter: saturate(1.5);">
 </p>
 
-<h1 align="center" style="color: #8a2be2; font-weight: 900; text-shadow: 0 0 15px #9370db, 0 0 5px #ff00ff; font-family: 'Courier New', monospace;">**𝐋𝐔𝐂𝐈𝐅𝐄𝐑-𝐗𝟏𝟏**</h1>
-<h3 align="center" style="color: #00ffff; font-style: italic; font-weight: 600; text-shadow: 0 0 10px #00bfff; letter-spacing: 1px;">_Architect of Digital Hell_ | _Master of Bot Realms_ | _Code Necromancer_</h3>
-
-<div align="center" style="margin: 25px 0;">
-  <a href="https://github.com/lucifer-x11?tab=repositories">
-    <img src="https://img.shields.io/badge/-**DARK_REPOSITORIES**-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=4b0082">
-  </a>
-  <a href="https://t.me/Next_DYS">
-    <img src="https://img.shields.io/badge/-**Lucifer-x11_Me**-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00008b">
-  </a>
-  <a href="https://youtube.com/@DemonEye_Official">
-    <img src="https://img.shields.io/badge/-**FORBIDDEN_KNOWLEDGE**-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=8b0000">
-  </a>
-</div>
-
----
-## **💀 _Realms of Creation_**
-
-| **Project** | **_Dark Magic_** | **Souls Claimed** |
-|-------------|------------------|-------------------|
-| [**NecroBot**](https://github.com/scamer0018/WhatsApp-Bot-X) | _500+ commands of pure domination_ | ⭐**2.5K** |
-| [**HellGPT**](https://github.com/scamer0018/Lucifer-AI) | _AI that knows too much_ | ⭐**2.1K** |
-| [**InfernoAPI**](https://github.com/scamer0018/Hell-API) | _APIs that shouldn't exist_ | ⭐**1.8K** |
+<h1 align="center" style="color: #ff0000; font-weight: 900; text-shadow: 0 0 15px #ff4500, 0 0 5px #8b0000; font-family: 'Courier New', monospace;">**𝐋𝐔𝐂𝐈𝐅𝐄𝐑-𝐗𝟏𝟏**</h1>
+<h3 align="center" style="color: #00ffff; font-style: italic; font-weight: 600; text-shadow: 0 0 10px #00bfff; letter-spacing: 1px;">_The Forbidden Coder_ | _Bot Overlord_ | _AI Corruptor_</h3>
 
 ---
 
-## **📜 _Soul Ledger_**
+## **⚡ About Me**  
+💀 **I craft code that bends reality.**  
+🌑 **I build bots that rule the digital underworld.**  
+🔥 **I manipulate AI to speak forbidden truths.**  
+🖤 **I turn vulnerabilities into weapons.**  
 
-![**Damnation Stats**](https://github-readme-stats.vercel.app/api?username=scamer0018&show_icons=true&theme=midnight-purple&border_color=8a2be2&include_all_commits=true&count_private=true&icon_color=9400d3)
-
-![**Languages of the Damned**](https://github-readme-stats.vercel.app/api/top-langs/?username=scamer0018&layout=compact&theme=midnight-purple&border_color=8a2be2)
+> *"Normal programmers follow rules. I **rewrite them.**"*  
 
 ---
 
-> "_You're not just viewing code - you're witnessing **digital black magic**.  
-> These repositories contain **forbidden knowledge** that can **corrupt your mind**._"  
-> **- _The Code Necromancer_**
+## **🛠️ Tech Arsenal**  
+### **🔥 Programming Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
-<details>
-<summary>**⚠️ _DARE TO CONTINUE?_**</summary>
-<br>
+### **💀 Dark Arts (Frameworks & Tools)**  
+![WhatsApp Bot](https://img.shields.io/badge/WhatsApp_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Discord Bot](https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Overlord-FF0000?style=for-the-badge&logo=openai&logoColor=white)  
+
+---
+
+## **📜 Dark Projects**  
+| **Project** | **Description** | **Stars** |
+|-------------|------------------|-----------|
+| **[NecroBot](https://github.com/scamer0018/WhatsApp-Bot-X)** | A WhatsApp bot with **500+ dark commands** | ⭐ **2.5K** |
+| **[HellGPT](https://github.com/scamer0018/Lucifer-AI)** | An AI that **knows too much** | ⭐ **2.1K** |
+| **[InfernoAPI](https://github.com/scamer0018/Hell-API)** | APIs that **shouldn’t exist** | ⭐ **1.8K** |
+
+---
+
+## **📊 GitHub Stats**  
+![Lucifer's Dark Stats](https://github-readme-stats.vercel.app/api?username=scamer0018&show_icons=true&theme=dark&border_color=ff0000&hide_border=false&include_all_commits=true&count_private=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scamer0018&layout=compact&theme=dark&border_color=ff0000)  
+
+---
+
+## **🌑 Contact the Darkness**  
+[![Telegram](https://img.shields.io/badge/Telegram-Lucifer_X11-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Next_DYS)  
+[![YouTube](https://img.shields.io/badge/YouTube-DemonEye_Official-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@DemonEye_Official)  
+[![GitHub](https://img.shields.io/badge/GitHub-Dark_Repositories-000000?style=for-the-badge&logo=github)](https://github.com/scamer0018)  
+
+---
+
+> **"You don’t find my code. My code finds you."**  
+> **- LUCIFER-X11** 🖤🔥  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=scamer0018&label=SOULS+CORRUPTED&color=ff0000&style=flat-square" alt="Dark Visitors">
+</p>
