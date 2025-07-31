@@ -22,13 +22,37 @@
 
 ---
 
-## **_Dark Arts Manifesto_**
+## **🔥 _Top Projects_**
 
-```javascript
-const demon = {
-  **name**: "Lucifer-x11",
-  **title**: "_Supreme Code Warlock_",
-  **powers**: ["_WhatsApp Bot Creation_", "_API Alchemy_", "_Dark Web Magic_"],
-  **level**: 999,
-  **motto**: "_Code like hell, debug like demon_"
-};
+| **Project** | **_Description_** | **Stars** |
+|------------|------------------|-----------|
+| [**WhatsApp-Bot-X**](https://github.com/lucifer-x11/WhatsApp-Bot-X) | _Multifeatured demonic bot_ | ⭐**2.1K** |
+| [**Lucifer-AI**](https://github.com/lucifer-x11/Lucifer-AI) | _AI-powered dark assistant_ | ⭐**1.7K** |
+| [**Hell-API**](https://github.com/lucifer-x11/Hell-API) | _Collection of sinful APIs_ | ⭐**1.2K** |
+
+---
+
+## **📊 _GitHub Stats_**
+
+![**Lucifer's Stats**](https://github-readme-stats.vercel.app/api?username=lucifer-x11&show_icons=true&theme=dark&border_color=ff4500&include_all_commits=true&count_private=true&title_color=ff4500&text_color=ffffff&icon_color=ff4500)
+
+![**Top Languages**](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer-x11&layout=compact&theme=dark&border_color=ff4500&title_color=ff4500)
+
+---
+
+> "_In the abyss of code, **I reign supreme**. All my creations are open for mortals to witness, but **dare not claim as your own**._"  
+> **- _Lucifer-x11_**
+
+<details>
+<summary>**🔥 _Click to summon the demon..._**</summary>
+<br>
+
+```bash
+# _Dark magic installation_
+git clone https://github.com/SCAMER0018/dark-repository.git
+cd dark-repository
+npm install **--force**
+node **awaken.js**
+```
+</details>
+```
