@@ -1,88 +1,33 @@
-```markdown
-# Lucifer-x11 - The Code Alchemist 🔥
-
+<!-- ANIME STYLE PROFILE WITH COPY-PASTE READY CODE -->
 <p align="center">
-  <a href="https://ibb.co/NhmGtKK"><img src="https://i.ibb.co/STdZ5BB/FB-IMG-1738957195800.jpg" width="200" height="200" style="border-radius:50%; border: 3px solid #ff4500; box-shadow: 0 0 20px #ff4500; filter: drop-shadow(0 0 10px #ff0000); transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 20px #ff8c00)'" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0 0 10px #ff0000)'" alt="Lucifer-x11" border="0"></a>
+  <img src="https://i.ibb.co/STdZ5BB/FB-IMG-1738957195800.jpg" width="220" height="220" style="border-radius:50%; border: 4px solid #ff1493; box-shadow: 0 0 25px #ff00ff, 0 0 15px #00ffff; transform: rotate(-5deg); transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);" onmouseover="this.style.transform='rotate(5deg) scale(1.1)'; this.style.filter='hue-rotate(45deg) saturate(1.5)'" onmouseout="this.style.transform='rotate(-5deg) scale(1)'; this.style.filter='none'">
 </p>
 
-<h1 align="center" style="color: #ff4500; text-shadow: 0 0 15px rgba(255,69,0,0.8); font-family: 'Bebas Neue', cursive; font-size: 3rem; letter-spacing: 3px; animation: glow 2s infinite alternate;">👑 LUCIFER-X11 👑</h1>
-<h3 align="center" style="color: #00ffff; font-family: 'Rajdhani', sans-serif; font-weight: 600; text-shadow: 0 0 10px rgba(0,255,255,0.5);">DARK LORD OF AUTOMATION | WHATSAPP BOT EMPEROR | CODE WARLOCK</h3>
+<h1 align="center" style="color: #ff00aa; text-shadow: 0 0 15px #ff69b4, 0 0 5px #00ffff; font-family: 'Arial Black', sans-serif; font-size: 3.2rem; letter-spacing: 2px; margin-bottom: 10px;">✧𝕷𝖚𝖈𝖎𝖋𝖊𝖗-𝖝11✧</h1>
+<h3 align="center" style="color: #00ffff; font-family: 'Verdana', sans-serif; text-shadow: 0 0 10px #00bfff; font-weight: bold; margin-top: 0;">✮𝕯𝖊𝖒𝖔𝖓 𝕮𝖔𝖉𝖊𝖗 ✮ 𝕯𝖊𝖛𝖎𝖑 𝕭𝖔𝖙 𝕮𝖗𝖊𝖆𝖙𝖔𝖗 ✮</h3>
 
-<div align="center" style="margin: 20px 0;">
-  <a href="https://github.com/lucifer-x11?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20">
+<div align="center" style="margin: 25px 0;">
+  <a href="https://github.com/lucifer-x11?tab=repositories" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-𝕽𝖊𝖕𝖔𝖘𝖎𝖙𝖔𝖗𝖎𝖊𝖘-black?style=for-the-badge&logo=github&logoColor=white&labelColor=ff00aa">
   </a>
-  <a href="https://t.me/Next_DYS">
-    <img src="https://img.shields.io/badge/CONTACT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20">
+  <a href="https://t.me/Next_DYS" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-𝕮𝖔𝖓𝖙𝖆𝖈𝖙-blue?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088cc">
   </a>
-  <a href="https://youtube.com/@DemonEye_Official">
-    <img src="https://img.shields.io/badge/TUTORIALS-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=20">
+  <a href="https://youtube.com/@DemonEye_Official" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-𝕿𝖚𝖙𝖔𝖗𝖎𝖆𝖑𝖘-red?style=for-the-badge&logo=youtube&logoColor=white&labelColor=ff0000">
   </a>
 </div>
 
 ---
 
-## 🔮 Dark Arts Manifesto
+## ✨ 𝕯𝖊𝖒𝖔𝖓 𝕾𝖙𝖆𝖙𝖘
 
-```typescript
-interface DarkCoder {
-  name: "Lucifer-x11";
-  title: "Supreme Bot Architect";
-  domains: ["WhatsApp Automation", "AI Integration", "API Sorcery"];
-  weapons: ["Node.js", "Python", "TypeScript"];
-  followers: "666+";
-  motto: "Code is my scripture, bugs are my sacrifices";
-}
-
-const summonDemon = (): string => {
-  return "Invoke my dark creations at your own peril...";
-}
-```
-
----
-
-## 🧪 Alchemical Experiments
-
-### 🔥 Trending Dark Projects
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [WhatsApp-Bot-X](https://github.com/lucifer-x11/WhatsApp-Bot-X) | Multi-featured demonic bot | ⭐1.2K |
-| [Lucifer-AI](https://github.com/lucifer-x11/Lucifer-AI) | AI-powered dark assistant | ⭐876 |
-| [Hell-API](https://github.com/lucifer-x11/Hell-API) | Sinful API collection | ⭐543 |
-
----
-
-## 📜 Infernal Stats
-![Lucifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucifer-x11&show_icons=true&theme=dracula&border_color=ff4500&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer-x11&layout=compact&theme=dracula&border_color=ff4500)
-
----
-
-## 💀 Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/lucifer-x11/count.svg)
-
----
-
-> "In the abyss of code, I reign supreme. All projects are open for mortals to witness, but dare not claim as your own." - Lucifer-x11
-
-<details>
-<summary>🔥 Click to summon the demon...</summary>
-<br>
-  
-```bash
-git clone https://github.com/lucifer-x11/dark-magic.git
-cd dark-magic
-npm install
-node summon.js
-```
-</details>
-```
-
-Key changes made:
-1. Replaced the original image with your new FB-IMG-1738957195800.jpg from ibb.co
-2. Kept all the styling and hover effects from the original image
-3. Maintained the same layout and all other content
-4. Added proper alt text and border attributes to the new image
-
-You can now copy this entire markdown and use it directly in your README.md file. All the styling and functionality will remain the same, just with your new profile picture.
+```javascript
+const demonProfile = {
+  name: "Lucifer-x11",
+  title: "Demon Coder",
+  skills: ["WhatsApp Bots", "AI Magic", "Dark Web APIs"],
+  weapons: ["Node.js", "Python", "JavaScript"],
+  level: 999,
+  motto: "Code like hell, debug like demon"
+};
